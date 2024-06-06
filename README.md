@@ -1,7 +1,12 @@
 > 👋 Hi, I’m Ebrahim (@Ebrahim6399)
-> Living in Canada 
+> 
+> Living in Canada
+> 
 > I’m interested in cybersecurity, GRC, Networking and Tech-support
+>
+> 
 > Self-taught
+> 
 > you can reach out to me at https://www.linkedin.com/in/ebrahim-mobarakabadi
 
 <!---
